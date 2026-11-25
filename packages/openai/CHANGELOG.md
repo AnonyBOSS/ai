@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 4.0.124
+
+### Patch Changes
+
+- 2c7a5a0: chore(openai): align model catalog capabilities with live OpenAI API results and list discontinued model IDs
+
 ## 4.0.123
 
 ### Patch Changes

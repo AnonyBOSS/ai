@@ -1,5 +1,12 @@
 # ai
 
+## 7.0.182
+
+### Patch Changes
+
+- Updated dependencies [ff3b865]
+  - @ai-sdk/gateway@4.0.155
+
 ## 7.0.181
 
 ### Patch Changes

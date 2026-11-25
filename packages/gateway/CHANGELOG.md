@@ -1,5 +1,11 @@
 # @ai-sdk/gateway
 
+## 4.0.155
+
+### Patch Changes
+
+- ff3b865: chore(provider/gateway): update gateway model settings files
+
 ## 4.0.154
 
 ### Patch Changes

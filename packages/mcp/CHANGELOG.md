@@ -1,5 +1,11 @@
 # @ai-sdk/mcp
 
+## 2.0.105
+
+### Patch Changes
+
+- cab8529: fix(mcp): align MCP Events with SEP-3415 capability negotiation, `Mcp-Name` routing header, and per-message `webhook-id`
+
 ## 2.0.104
 
 ### Patch Changes
